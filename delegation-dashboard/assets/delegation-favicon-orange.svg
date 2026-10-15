@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 64 64">
+  <title>AIPE · Portal de delegación</title>
+  <rect x="1" y="1" width="62" height="62" rx="15" fill="#FF6A00"/>
+  <path fill="#fff" fill-rule="evenodd" d="M12 49 26 15h12l14 34H41l-3-8H26l-3 8H12Zm17-16h6l-3-9-3 9Z"/>
+</svg>
